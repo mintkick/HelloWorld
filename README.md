@@ -31,6 +31,7 @@ I found these websites useful in developing this software:
 
 - [Getting started with Visual Studio Code](https://code.visualstudio.com/docs/introvideos/basics)
 - [Edit and run code in Visual Studio Code](https://code.visualstudio.com/docs/introvideos/codeediting)
+- [HTML Programming with Visual Studio Code](https://code.visualstudio.com/docs/languages/html)
 
 ## Future Work
 
