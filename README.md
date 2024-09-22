@@ -23,7 +23,8 @@ Instructions for using the software:
 
 To recreate the development environment, you need the following software and/or libraries with the specified versions:
 
-- Visual Studio Code, or any IDE that can use HTML
+- Visual Studio Code
+- The Live Server extension
 
 ## Useful Websites to Learn More
 
