@@ -10,8 +10,9 @@
 
 Steps to build and/or run the software:
 
-1. On the right of the repo page, under "Deployments", click on "github-pages" (it will open in a new tab).
-2. Click the link in the latest deployment.
+1. Click this link: [https://mintkick.github.io/HelloWorld/](https://mintkick.github.io/HelloWorld/)
+2. Alternatively, on the right of the repo page, under "Deployments", click on "github-pages" (it will open in a new tab).
+3. Click the link in the latest deployment.
 
 Instructions for using the software:
 
