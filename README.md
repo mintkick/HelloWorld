@@ -4,15 +4,13 @@
 
 **Project Description**: Displays a hello message to anyone in the world who renders the HTML.
 
-<!-- runs this program. -->
-
 **Project Goals**: To welcome everyone to the world in which they live--in a mildly entertaining fashion.
 
 ## Instructions for Build and Use
 
 Steps to build and/or run the software:
 
-1. On the right of the repo page, under Deployments, click on "github-pages" (It will open in a new tab)
+1. On the right of the repo page, under "Deployments", click on "github-pages" (it will open in a new tab).
 2. Click the link in the latest deployment.
 
 Instructions for using the software:
@@ -40,5 +38,5 @@ The following items I plan to fix, improve, and/or add to this project in the fu
 
 - [ ] Each letter has its own color
 - [ ] Wavy text
-- [ ] Music
+- [ ] Background music
 - [ ] Skill tree
